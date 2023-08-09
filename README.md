@@ -28,6 +28,7 @@ mindmap
         ["⚛️ React<br />(+ Native)"]
     ((Frameworks))
       [NextJS]
+      [TailwindCSS]
       [NestJS]
       [✍️ WordPress]
       [🛒 Magento]
