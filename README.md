@@ -12,6 +12,8 @@ Other times, it is like being a composer: pulling all the right pieces together 
 Here are some technologies I work with _(not all-inclusive)_ to give you an idea where I may be able to contribute.<br />
 Feel free to [email me](mailto:logan@loganstellway.com) for a resume or to ask about your project! 
 
+_¡También hablo español, si prefieres!_
+
 ```mermaid
 mindmap
   root)Software(
