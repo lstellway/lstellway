@@ -9,10 +9,7 @@ My name is Logan and I&rsquo;m a software engineer who is a teacher at heart, st
 At times, working with software is like being a construction worker.<br />
 Other times, it is like being a composer: pulling all the right pieces together to create a masterpiece. 
 
-Here are some technologies I work with _(not all-inclusive)_ to give you an idea where I may be able to contribute.<br />
-Feel free to [email me](mailto:logan@loganstellway.com) for a resume or to ask about your project! 
-
-_¡También hablo español, si prefieres!_
+Here are some technologies I work with _(not all-inclusive)_ to give you an idea where I may be able to contribute.
 
 ```mermaid
 mindmap
@@ -58,6 +55,9 @@ mindmap
         [Terraform]
         [Ansible]
 ```
+
+Feel free to [email me](mailto:logan@loganstellway.com) for a resume or to ask about your project!<br />
+_¡También hablo español, si prefieres!_
 
 <!--
 **lstellway/lstellway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
