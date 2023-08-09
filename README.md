@@ -23,19 +23,19 @@ mindmap
       [GNU Make]
       [SQL]
       [LogQL]
-      {{EcmaScript}}
-        [NodeJS]
-        ["⚛️ React<br />(+ Native)"]
+      ["JavaScript / NodeJS"]
     ((Frameworks))
       [NextJS]
       [TailwindCSS]
       [NestJS]
-      [✍️ WordPress]
-      [🛒 Magento]
       [🚊 Rails]
-      [Strapi]
-      [Drupal]
-      [Shopify]
+      ["⚛️ React<br />(+ Native)"]
+      {{CMS}}
+        [✍️ WordPress]
+        [🛒 Magento]
+        [Strapi]
+        [Drupal]
+        [Shopify]
     ((💾 Databases))
       [MySQL / MariaDB]
       [PostgreSQL]
