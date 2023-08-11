@@ -2,7 +2,7 @@
 
 My name is Logan and I&rsquo;m a software engineer who is a teacher at heart, striving to grow myself and the people around me. I have experience with a variety of teams in industries including healthcare, automotive finance and retail. I am experienced with mobile and web application development, backend API’s + services, infrastructure, container orchestration and automation. I am a quick learner and enjoy tailoring technology to unique business needs.
 
-[Email](mailto:logan@loganstellway.com) | [LinkedIn](https://linkedin.com/in/lstellway/)
+[Email](mailto:logan@loganstellway.com) | [LinkedIn](https://linkedin.com/in/lstellway/) | [Website](https://loganstellway.com)
 
 #### Technology
 
