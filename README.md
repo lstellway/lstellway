@@ -30,18 +30,18 @@ mindmap
     ((Frameworks))
       [NextJS]
       [TailwindCSS]
-      [NestJS]
+      [🐯 NestJS]
       [🚊 Rails]
       ["⚛️ React<br />(+ Native)"]
       {{CMS}}
         [✍️ WordPress]
         [🛒 Magento]
         [Strapi]
-        [Drupal]
-        [Shopify]
+        [💧 Drupal]
+        [🛍️ Shopify]
     ((💾 Databases))
-      [MySQL / MariaDB]
-      [PostgreSQL]
+      [🐬 MySQL / MariaDB]
+      [🐘 PostgreSQL]
       [Microsoft SQL Server]
       [Redis]
       [ElasticSearch]
@@ -49,13 +49,13 @@ mindmap
       {{📦 Containers}}
         [🐳 Docker]
         [⎈ Kubernetes]
-      {{Hosting}}
+      {{☁️ Hosting}}
         [DigitalOcean]
         [Google Cloud]
         [Amazon AWS]
       {{Automation}}
-        [GitHub Actions]
-        [GitLab CI]
+        [🐙 GitHub Actions]
+        [🦊 GitLab CI]
         [Terraform]
         [Ansible]
 ```
