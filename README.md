@@ -4,7 +4,7 @@
 
 -----
 
-### About Logan
+### About Me
 
 Software engineer who is a team player, striving to grow myself and those around me. I have experience with teams from various industries including healthcare, automotive finance and retail. I am well-versed with mobile and web application development, backend services + API&rsquo;s, infrastructure, container orchestration and automation. I&rsquo;m not afraid of a challenge and enjoy tailoring technology to work for humans. 
 
