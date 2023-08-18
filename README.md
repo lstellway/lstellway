@@ -4,9 +4,9 @@
 
 -----
 
-### Hello 👋
+### About Logan
 
-My name is Logan and I&rsquo;m a software engineer who is a teacher at heart, striving to grow myself and the people around me. I have experience with a variety of teams in industries including healthcare, automotive finance and retail. I am experienced with mobile and web application development, backend API’s + services, infrastructure, container orchestration and automation. I am a quick learner and enjoy tailoring technology to work for humans.
+Software engineer who is a team player, striving to grow myself and those around me. I have experience with teams from various industries including healthcare, automotive finance and retail. I am well-versed with mobile and web application development, backend services + API&rsquo;s, infrastructure, container orchestration and automation. I&rsquo;m not afraid of a challenge and enjoy tailoring technology to work for humans. 
 
 Here are some technologies I work with _(not all-inclusive)_ to give you an idea where I may be able to contribute.
 
