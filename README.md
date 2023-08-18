@@ -8,11 +8,6 @@
 
 My name is Logan and I&rsquo;m a software engineer who is a teacher at heart, striving to grow myself and the people around me. I have experience with a variety of teams in industries including healthcare, automotive finance and retail. I am experienced with mobile and web application development, backend API’s + services, infrastructure, container orchestration and automation. I am a quick learner and enjoy tailoring technology to work for humans.
 
-#### Technology
-
-At times, working with software is like being a construction worker.<br />
-Other times, it is like being a composer: pulling all the right pieces together to create a masterpiece. 
-
 Here are some technologies I work with _(not all-inclusive)_ to give you an idea where I may be able to contribute.
 
 ```mermaid
