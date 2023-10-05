@@ -6,7 +6,16 @@
 
 ### About Me
 
-Software engineer who is a team player, striving to grow myself and those around me. I have experience with teams from various industries including healthcare, automotive finance and retail. I am well-versed with mobile and web application development, backend services + API&rsquo;s, infrastructure, container orchestration and automation. I&rsquo;m not afraid of a challenge and enjoy tailoring technology to work for humans. 
+Software engineer who is a team player, striving to grow myself and those around me. I have experience with teams from various industries including healthcare, automotive finance and retail. I am well-versed with mobile and web application development, backend services + API&rsquo;s, infrastructure, container orchestration and automation. I&rsquo;m not afraid of a challenge and enjoy tailoring technology to work for people. 
+
+_Note:_<br />
+_I work on many private projects on a self-hosted [Gitea](https://about.gitea.com) instance_<br />
+_(GitHub activity does not tell the whole story 😳)_
+
+-----
+
+Feel free to [email me](mailto:logan@loganstellway.com) for a resume or to ask about your project!<br />
+_¡También hablo español, si prefieres!_
 
 Here is some software I work with to give an idea where I may be able to contribute.
 
@@ -54,9 +63,6 @@ mindmap
         [Terraform]
         [Ansible]
 ```
-
-Feel free to [email me](mailto:logan@loganstellway.com) for a resume or to ask about your project!<br />
-_¡También hablo español, si prefieres!_
 
 <!--
 **lstellway/lstellway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
