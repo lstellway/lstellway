@@ -12,11 +12,9 @@ Experienced with teams from industries in healthcare, automotive finance and ret
 
 I aim for my work to be intuitive for end-users and easily adopted by other software developers.
 
-_Note:_<br />
-_I work on many private projects on a self-hosted [Gitea](https://about.gitea.com) instance_<br />
-_(GitHub activity does not tell the whole story 😳)_
-
------
+>_Note:_<br />
+>_I work on many private projects on a self-hosted [Gitea](https://about.gitea.com) instance_<br />
+>_(GitHub activity does not tell the whole story 😳)_
 
 Feel free to [email me](mailto:logan@loganstellway.com) for a resume or to ask about your project!<br />
 _¡También hablo español, si prefieres!_
