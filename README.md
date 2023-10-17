@@ -6,7 +6,11 @@
 
 ### About Me
 
-Software engineer who is a team player, striving to grow myself and those around me. I have experience with teams from various industries including healthcare, automotive finance and retail. I am well-versed with mobile and web application development, backend services + API&rsquo;s, infrastructure, container orchestration and automation. I&rsquo;m not afraid of a challenge and enjoy tailoring technology to work for people. 
+Software engineer with an emphasis on reliability and usability.
+
+Experienced with teams from industries in healthcare, automotive finance and retail. 
+
+I aim for my work to be intuitive for end-users and easily adopted by other software developers.
 
 _Note:_<br />
 _I work on many private projects on a self-hosted [Gitea](https://about.gitea.com) instance_<br />
