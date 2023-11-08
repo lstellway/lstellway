@@ -6,11 +6,10 @@
 
 ### About Me
 
-Software engineer with an emphasis on reliability and usability.
+Software engineer with an emphasis on reliability and usability <br />
+_(including the developer experience - engineers need love too ❤️)_
 
-Experienced with teams from industries in healthcare, automotive finance and retail. 
-
-I aim for my work to be intuitive for end-users and easily adopted by other software developers.
+Experienced with teams from industries in healthcare, automotive finance and retail.
 
 >_Note:_<br />
 >_I work on many private projects on a self-hosted [Gitea](https://about.gitea.com) instance_<br />
