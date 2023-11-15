@@ -1,24 +1,9 @@
------
-
-[✉️ Email](mailto:logan@loganstellway.com) • [👨‍💼 LinkedIn](https://linkedin.com/in/lstellway/) • [🖥️ Website](https://loganstellway.com)
-
------
-
-### About Me
-
-Software engineer with an emphasis on reliability and usability <br />
-_(including the developer experience - engineers need love too ❤️)_
-
+Full-stack software engineer with an emphasis on reliability and usability.<br />
 Experienced with teams from industries in healthcare, automotive finance and retail.
 
->_Note:_<br />
 >_I work on many private projects on a self-hosted [Gitea](https://about.gitea.com) instance_<br />
->_(GitHub activity does not tell the whole story 😳)_
 
-Feel free to [email me](mailto:logan@loganstellway.com) for a resume or to ask about your project!<br />
-_¡También hablo español, si prefieres!_
-
-Here is some software I work with to give an idea where I may be able to contribute.
+Some ways I can contribute:
 
 ```mermaid
 mindmap
@@ -31,7 +16,8 @@ mindmap
       [GNU Make]
       [SQL]
       [LogQL]
-      ["JavaScript / NodeJS"]
+      ["JavaScript<br />NodeJS / TS"]
+      [❄️ NixOS]
     ((Frameworks))
       [NextJS]
       [TailwindCSS]
